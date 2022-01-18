@@ -1,3 +1,3 @@
 В данном репозитории представлен нелёгкий путь в мир Android Developer!
 
-![giphy](https://user-images.githubusercontent.com/95831815/149983059-52b590ff-a209-4999-adbd-e07ffb7f9d98.gif)
+![giphy](https://user-images.githubusercontent.com/95831815/149985073-65cf7466-e9c0-4586-9682-96999b18921b.gif)
